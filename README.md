@@ -3,7 +3,7 @@ Project repository for IST782
 
 This is the prjoect repository for my IST782 - Advanced Data Science Portfolio Milestone.
 
-Peter J. Capelli
+Peter J. Capelli 
 SUID: 864433325
 email:  pjcapell@syr.edu (school)
         pjcapelli@pm.me (personal)
